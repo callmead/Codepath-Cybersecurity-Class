@@ -1,6 +1,6 @@
 # Codepath-Cybersecurity-Class
 
-This repository contains Codepath Cybersecurity Class material.  following **additional** features are implemented:
+This repository contains Codepath Cybersecurity Class labs. 
 
 - [x] Pre-work lab.
 
